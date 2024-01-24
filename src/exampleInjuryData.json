@@ -1,0 +1,60 @@
+{
+  "casualtyInjuries": [
+      {
+          "category": "burn",
+          "categoryColor": "orange",
+          "label": "2nd Degree Burn",
+          "location": "head",
+          "subLocation": "face",
+          "lateralPosition": "center"
+      },
+      {
+          "category": "burn",
+          "categoryColor": "orange",
+          "label": "1st Degree Burn",
+          "location": "chest",
+          "subLocation": "upper",
+          "lateralPosition": "right"
+      },
+      {
+          "category": "airway",
+          "categoryColor": "blue",
+          "label": "Tension Pneumothorax",
+          "location": "chest",
+          "subLocation": "upper",
+          "lateralPosition": "right"
+      },
+      {
+          "category": "burn",
+          "categoryColor": "orange",
+          "label": "3rd Degree Burn",
+          "location": "abdomen",
+          "subLocation": "upper",
+          "lateralPosition": "center"
+      },
+      {
+          "category": "hemorrhage",
+          "categoryColor": "red",
+          "label": "hemorrhage (external)",
+          "location": "leg",
+          "subLocation": "lower",
+          "lateralPosition": "right"
+      },
+      {
+          "category": "hemorrhage",
+          "categoryColor": "red",
+          "label": "hemorrhage (external)",
+          "location": "arm",
+          "subLocation": "upper",
+          "lateralPosition": "left"
+      },
+      {
+          "category": "hemorrhage",
+          "categoryColor": "red",
+          "label": "hemorrhage (external)",
+          "location": "arm",
+          "subLocation": "lower",
+          "lateralPosition": "left"
+      }
+  ]
+}
